@@ -22,8 +22,8 @@ We love fast and reliable technologies:
 
 ## 🚀 Getting Started
 
-If you want to run an AriaCast receiver on your Music Assistant just add it, and download the App
-The Go server can be cross-compiled for any platform (Windows, macOS, Linux, and Raspberry Pi ARM architectures).
+- If you want to run an AriaCast receiver on your Music Assistant just add it, and download the App
+- The Go server can be cross-compiled for any platform (Windows, macOS, Linux, and Raspberry Pi ARM architectures).
 
 ## 🤝 Contributing
 
