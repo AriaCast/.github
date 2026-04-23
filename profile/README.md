@@ -1,5 +1,7 @@
 # Welcome to AriaCast 🎵✨
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/AirPlr)
+
 AriaCast is a high-performance, open-source casting protocol designed to deliver seamless audio (and video) streaming across devices, with a specialized focus on deep integration with **Music Assistant**.
 
 Whether you're looking for an alternative to traditional casting protocols (like Chromecast or AirPlay) or want a highly customizable streaming solution, AriaCast is built with performance, low latency, and ease of use in mind.
